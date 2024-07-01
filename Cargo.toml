@@ -1,0 +1,17 @@
+[package]
+name = "optional-future"
+version = "0.0.1"
+edition = "2021"
+authors = ["Ben Scott <gamepoet@gmail.com>"]
+rust-version = "1.70"
+license = "MIT"
+description = """
+Allows an Option<Future> to be used as a Future. This is handy for select! uses
+where one of the select options is only sometimes a valid future.
+"""
+repository = "https://github.com/gamepoet/optional-future"
+keywords = ["async", "future"]
+
+[dependencies]
+futures-core = "0.3"
+pin-project-lite = "0.2"
