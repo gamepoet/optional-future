@@ -1,7 +1,5 @@
-<p align="center">
-  [![Crates.io](https://img.shields.io/crates/v/optional-future)](https://crates.io/crates/optional-future)
-  [![Documentation](https://docs.rs/optional-future/badge.svg)](https://docs.rs/optional-future)
-</p>
+[![Crates.io](https://img.shields.io/crates/v/optional-future)](https://crates.io/crates/optional-future)
+[![Documentation](https://docs.rs/optional-future/badge.svg)](https://docs.rs/optional-future)
 
 <p align="center>
 
